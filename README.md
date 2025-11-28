@@ -1,75 +1,27 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/dZ4HfJp.gif" width="100%" />
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Abdellah</span></h1>
-<h3 align="center">Full Stack Developer | PHP & JavaScript</h3>
-
----
-
-## 🌐 Socials  
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
----
-
-## ⚡ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c" />
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue" />
-</p>
-
-### **Backend & DB**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<!-- Dynamic Banner -->
 <div align="center">
+  <img src="https://i.imgur.com/dZ4HfJp.gif" width="100%"/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Abdellah;Full+Stack+Developer;PHP+%7C+JavaScript+%7C+Laravel" alt="Typing SVG" />
+  </h1>
+  
+  <p>
+    <em>Turning coffee into clean code since 2020 ☕→💻</em>
+  </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Tech Stack
 
-### 🔹 **WorkSphere – Employee & Zone Management**
-✔️ Interactive   
-✔️ Easy to manage  
+<div align="center">
 
-### 🔹 **Student Manager (C)**
-✔️ Reads data  
-✔️ Sorts  
-✔️ Filters  
-✔️ Works with files  
-
----
-
-## 📨 Contact
-- **Email:** lemtiriabdellah@gmail.com
-- **LinkedIn:** www.linkedin.com/in/abdellah-lemtiri-12b09a39b  
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/7KQF1vK.gif" width="60" />
-  <br>
-  <strong>“Build. Break. Fix. Improve.”</strong>
-</p>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                     🛠️  Technologies  🛠️                    ║
+╚══════════════════════════════════════════════════════════╝
