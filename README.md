@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/P5d1h7D.gif" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">⚡ Abdellah – Full Stack Developer</h1>
 <h3 align="center">Crafting Clean Code • Building Smart Systems • Leveling Up Everyday</h3>
@@ -66,12 +66,11 @@ A console app that:
 ---
 
 ## 📩 Contact Me
-- Email: youremail@example.com  
-- LinkedIn: linkedin.com/in/YOUR_PROFILE  
-
+- Email:     lemtiriabdellah@gmail.com  
+- LinkedIn:  www.linkedin.com/in/abdellah-lemtiri-12b09a39b
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/dlxq0j2.gif" width="70" /><br>
   <strong>“Build it. Ship it. Improve it.”</strong>
-</p>
+</p> -->
