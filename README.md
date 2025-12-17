@@ -31,23 +31,8 @@ Focused on writing clean code, learning modern tools, and leveling up every proj
 
 ---
 
-## 🚧 Featured Work
 
-### 🛠️ **WorkSphere – Employee & Zone Manager**
-A management system with:
-- Dynamic UI  
-- Drag & drop interface  
-- Organized zone control  
-- Fast, clean backend logic  
 
-### 📚 **Student Manager in C**
-A console app that:
-- Reads data from files  
-- Sorts & filters students  
-- Detects special cases  
-- Gives statistics in real time  
-
----
 
 ## 📊 Stats & Progress
 <p align="center">
