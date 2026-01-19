@@ -16,7 +16,7 @@ Focused on writing clean code, learning modern tools, and leveling up every proj
 
 ## 🎨 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue,laravel,mysql?postgrele" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
