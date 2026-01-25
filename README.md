@@ -64,9 +64,9 @@
 ## 🐍 My Contribution Journey
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdellahLemtiri/YOUR_USERNAME/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdellahLemtiri/YOUR_USERNAME/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/AbdellahLemtiri/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdellahLemtiri/AbdellahLemtiri/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdellahLemtiri/AbdellahLemtiri/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbdellahLemtiri/AbdellahLemtiri/output/github-snake.svg">
   </picture>
 </p>
 
