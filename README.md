@@ -78,7 +78,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/abdellah-lemtiri-12b09a39b"><img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:lemtiriabdellah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://wa.me/0604789190"><img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp" /></a>
 </p>
 
 <p align="center">
