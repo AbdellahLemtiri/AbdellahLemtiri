@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&lines=Backend+Architecture:+Laravel+%7C+Spring+%7C+Node;Frontend+Crafting:+React+%7C+Vue+%7C+Tailwind;Workflow:+Agile+%7C+Jira+%7C+Docker+%7C+CI%2FCD;Status:+Ready+to+Deploy+Scalable+Solutions...%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&lines=Backend+Mastery:+Laravel+%7C+PHP+8+%7C+SQL;Frontend+Fusion:+Vue.js+%7C+React+%7C+Tailwind;Architecture:+MVC+%7C+REST+API+%7C+UML;Workflow:+Agile+%7C+Jira+%7C+Docker+%7C+Git;Status:+Ready+for+PFE+Internship...%E2%9C%85" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,17 +37,17 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </td>
 
-      <td align="center" width="33%" style="vertical-align: top;">
+  <td align="center" width="33%" style="vertical-align: top;">
         <span style="font-weight:bold; color:#4FC08D; font-family: monospace; font-size:15px;">// FRONTEND & DESIGN</span><br><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
       </td>
 
-      <td align="center" width="33%" style="vertical-align: top;">
+  <td align="center" width="33%" style="vertical-align: top;">
         <span style="font-weight:bold; color:#FCC624; font-family: monospace; font-size:15px;">// API & DEVOPS</span><br><br>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
@@ -57,7 +57,7 @@
         <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
         <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
       </td>
-    </tr>
+   </tr>
   </table>
 </div>
 
