@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&lines=Backend+Mastery:+Laravel+%7C+PHP+8+%7C+SQL;Frontend+Fusion:+Vue.js+%7C+React+%7C+Tailwind;Architecture:+MVC+%7C+REST+API+%7C+UML;Workflow:+Agile+%7C+Jira+%7C+Docker+%7C+Git;Status:+Ready+for+PFE+Internship...%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&lines=Backend+Mastery:+Laravel+%7C+PHP+8+%7C+SQL;Frontend+%7C+React+%7C+Tailwind;Architecture:+MVC+%7C+REST+API+%7C+UML;Workflow:+Agile+%7C+Jira+%7C+Docker+%7C+Git;Status:+Ready+for+PFE+Internship...%E2%9C%85" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,6 @@
 <br>
 
 <h3 align="center">⚡ <span style="color:#00D4FF">TECHNICAL ECOSYSTEM</span> ⚡</h3>
-
 <div align="center">
   <table style="border: none; background-color: #0d1117;">
     <tr>
@@ -31,12 +30,11 @@
         <span style="font-weight:bold; color:#00D4FF; font-family: monospace; font-size:15px;">// BACKEND & DATA</span><br><br>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </td>
-
-  <td align="center" width="33%" style="vertical-align: top;">
+      <td align="center" width="33%" style="vertical-align: top;">
         <span style="font-weight:bold; color:#4FC08D; font-family: monospace; font-size:15px;">// FRONTEND & DESIGN</span><br><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
@@ -44,34 +42,32 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
       </td>
-
-  <td align="center" width="33%" style="vertical-align: top;">
+      <td align="center" width="33%" style="vertical-align: top;">
         <span style="font-weight:bold; color:#FCC624; font-family: monospace; font-size:15px;">// API & DEVOPS</span><br><br>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-        <img src="https://img.shields.io/badge/AJAX-000000?style=flat-square&logo=javascript&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
         <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
       </td>
-   </tr>
+    </tr>
   </table>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdellahLemtiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=B3B3B3" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahLemtiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=B3B3B3&card_width=320" height="160" alt="languages graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdellahLemtiri&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdellahLemtiri&theme=tokyonight" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdellahLemtiri&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdellahLemtiri&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdellahLemtiri&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="100%" />
 </div>
 
 <br>
