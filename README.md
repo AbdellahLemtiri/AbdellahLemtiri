@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00D4FF,000000&height=250&section=header&text=ABDELLAH%20LEMTIRI&fontSize=50&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20UI%20DESIGNER&descSize=18&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00D4FF,000000&height=250&section=header&text=ABDELLAH%20LEMTIRI&fontSize=50&fontAlignY=38&desc=FULL-STACK%20Developer%20%7C%20UI%20DESIGNER&descSize=18&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">⚡ <span style="color:#00D4FF">TECHNICAL ECOSYSTEM</span> ⚡</h3>
+<h3 align="center"> <span style="color:#00D4FF">TECHNICAL ECOSYSTEM</span> </h3>
 <div align="center">
   <table style="border: none; background-color: #0d1117;">
     <tr>
