@@ -1,12 +1,12 @@
 <div align="center">
   <!-- Dynamic Modern Wavy Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09131d,45:0c253d,100:00d4ff&height=220&section=header&text=ABDELLAH%20LEMTIRI&fontSize=50&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%7C%20YouCode%20(UM6P)&descSize=18&descAlignY=58&fontColor=ffffff&descColor=00D4FF&animation=fadeIn" width="100%" alt="Abdellah Lemtiri Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09131d,45:0c253d,100:00d4ff&height=220&section=header&text=ABDELLAH%20LEMTIRI&fontSize=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20YouCode%20(UM6P)&descSize=18&descAlignY=58&fontColor=ffffff&descColor=00D4FF&animation=fadeIn" width="100%" alt="Abdellah Lemtiri Header Banner" />
 </div>
 
 <div align="center">
   <!-- Sleek Animated Typing Headline -->
   <a href="https://lemtiri.site">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Architecting+Robust%2C+Scalable+%26+Modern+Web+Solutions" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Architecting+Robust%2C+Scalable+%26+Modern+Web+Solutions" alt="Typing SVG Banner" />
   </a>
 </div>
 
@@ -36,9 +36,9 @@
 
 ### 📌 About Me
 
-> **Software Engineer** trained at **YouCode (UM6P)**, dedicated to engineering robust architectures, high-performance RESTful APIs, and modern user-centric web applications. Focused on writing maintainable, clean code and turning complex engineering problems into scalable digital experiences.
+> **Full-stack developer** trained at **YouCode (UM6P)**, dedicated to engineering robust architectures, high-performance RESTful APIs, and modern user-centric web applications. Focused on writing maintainable, clean code and turning complex engineering problems into scalable digital experiences.
 
-- 🎓 **Education:** Intensive Software Engineering at **YouCode (UM6P)**
+- 🎓 **Education:** Full-stack developer at **YouCode (UM6P)**
 - 🎯 **Engineering Focus:** Full-Stack System Architecture, Database Optimization & Clean API Design
 - 🚀 **Core Philosophies:** Clean Architecture, SOLID Principles, Responsive & Accessible Design
 - 🌐 **Online Portfolio:** [lemtiri.site](https://lemtiri.site)
